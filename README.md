@@ -2,23 +2,30 @@
 The most important information in each chapter from the book "Goodwill Företagsekonomi"
 
 ## Kapitel att gå igenom
-### Kapitel 1, 2, 3, 4, 6, 7, 10, 11, 12, 13, 14
- Kap 1-2 12 sid
+### Kapitel
+ Kap 1-2 12 sid - Ludvig Nyqvist
  
- Kap 3 10 sid
+ Kap 3 10 sid - Ludvig Nyqvist
  
- Kap 4 10 sid
+ Kap 4 10 sid - Kasiem Saeed
  
- Kap 6 13 sid
+ Kap 6 13 sid - Lawe Zangena
  
- Kap 7 6 sid
+ Kap 7 6 sid - Adam Pousette
  
- Kap 10 12 sid
+ Kap 10 12 sid - Johan Klausen
  
- Kap 11 8 sid
+ Kap 11 8 sid - Kevin Wilusz
  
- Kap 12 12 sid
+ Kap 12 12 sid - Kasiem Saeed
  
- Kap 13 6 sid
+ Kap 13 6 sid - Oscar Gustafsson
  
- Kap 14 8 sid
+ Kap 14 8 sid - Vigor Lundkvist
+ 
+ ## Struktur för att skriva sammanfattningen
+ ### Rubrik - Kapitelnamn h2
+ #### Kort inledning om kapitlet h3
+ ##### Nyckelord h4
+ ##### Viktiga Sidor h4
+ ###### Sammanfattning p
