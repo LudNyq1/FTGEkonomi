@@ -1,4 +1,5 @@
 # FTGEkonomi
+De viktgaste delarna från vardera kapitel i boken "Goodwill Företagsekonomi"
 The most important information in each chapter from the book "Goodwill Företagsekonomi"
 
 ## Kapitel att gå igenom
