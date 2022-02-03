@@ -12,9 +12,18 @@ const generator = (text) => {
         if (i == 0) {
             let h2 = document.createElement('h2');
             h2.textContent = stycke;
-            kap.append(h2)
+            kap.append(h2);
         }
         else if (stycke === ''){}
+        else if (stycke[0] === '#'){
+            let count = 0;
+            do {
+                count++;
+            } while (stycke[count] === '#');
+            let hx = document.createElement('h' + (count + 2));
+            hx.textContent = stycke;
+            kap.append(hx);
+        }
         else {
             const p = document.createElement('p');
             p.textContent = stycke;
@@ -29,4 +38,6 @@ const generator = (text) => {
 
 
 
-fetch('/mall.txt').then(x => x.text()).then(text => generator(text));
+fetch('/mal.txt')
+.then(x => x.text())
+.then(text => generator(text));
