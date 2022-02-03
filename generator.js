@@ -2,25 +2,17 @@
 
 const mainBody = document.getElementById('body');
 
-let textSplit
-
 const generator = (text) => {
-    textSplit = text.split('\r\n')
-    console.log(textSplit);
+    let textSplit = text.split('\r\n');
     let kap = document.createElement('div');
     textSplit.forEach((stycke, i) => {
-        if (i == 0) {
-            let h2 = document.createElement('h2');
-            h2.textContent = stycke;
-            kap.append(h2);
-        }
-        else if (stycke === ''){}
+        if (stycke === ''){}
         else if (stycke[0] === '#'){
             let count = 0;
             do {
                 count++;
             } while (stycke[count] === '#');
-            let hx = document.createElement('h' + (count + 2));
+            let hx = document.createElement('h' + (count + 1));
             hx.textContent = stycke;
             kap.append(hx);
         }
@@ -38,8 +30,8 @@ const generator = (text) => {
 
 
 for (let index = 1; index <= 14; index++) {
-    fetch('/mall.txt')
+    fetch('/kap' + index + '.md')
     .then(x => { 
         if (x.ok) return x.text();
-    }).then(text => generator(text)).catch();
+    }).then(text => generator(text)).catch(err => console.log(err));
 }
