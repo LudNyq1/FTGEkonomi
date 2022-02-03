@@ -28,5 +28,6 @@ De viktgaste delarna från vardera kapitel i boken "Goodwill Företagsekonomi"
  #### ## Kort inledning om kapitlet
  ##### ### Nyckelord
  ##### ### Viktiga Sidor
- ###### #### Sammanfattning
+ ### ## Sammanfattning
+ Brödtext
  ###### #### INSERT_BOK_FRÅGOR
