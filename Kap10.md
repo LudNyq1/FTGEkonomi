@@ -1,15 +1,15 @@
 # 10 Budget - ekonomisk planering
 ## Kapitlet handlar om hur viktigt det är att göra en budget för sitt företag och hur dem kan se ut.
 ### Nyckelord
-## Budget 
+### Budget 
 Gör en beräkning över alla pengar du har och förväntas få samt vad som kommer att kosta under en viss period.
-## Resultatbudget 
+### Resultatbudget 
 Det är en plan över förväntade intäkter och kostnader.
-## Likviditetsbudget 
+### Likviditetsbudget 
 Det är en budget som ger företaget en överblick på betalningsströmmar (inbetalningar jämförs med utbetalningar).
-## Konkurs 
+### Konkurs 
 Företaget förbjuds att fortsätta sin verksamhet av domstol.
-## Delegera
+### Delegera
 Tar sin budget och delar upp den i flera mindre budgetar för att fördela ut.
 ### Viktiga Sidor
 87, 90, 92, 93
