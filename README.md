@@ -1,5 +1,5 @@
 # FTGEkonomi
-The most important information in each chapter from the book "Goodwill Företagsekonomi"
+De viktgaste delarna från vardera kapitel i boken "Goodwill Företagsekonomi"
 
 ## Kapitel att gå igenom
 ### Kapitel
@@ -23,9 +23,11 @@ The most important information in each chapter from the book "Goodwill Företags
  
  Kap 14 8 sid - Vigor Lundkvist
  
- ## Struktur för att skriva sammanfattningen
- ### Rubrik - Kapitelnamn h2
- #### Kort inledning om kapitlet h3
- ##### Nyckelord h4
- ##### Viktiga Sidor h4
- ###### Sammanfattning p
+ ## Struktur för att skriva sammanfattningen (SKRIVS I .md !!!)
+ ### # Rubrik - Kapitelnamn 
+ #### ## Kort inledning om kapitlet
+ ##### ### Nyckelord
+ ##### ### Viktiga Sidor
+ ### ## Sammanfattning
+ Brödtext
+ ###### #### INSERT_BOK_FRÅGOR
