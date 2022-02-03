@@ -1,7 +1,7 @@
 #  Kap 3 - Starta eget företag
 ## Eget företag, ett stort steg.
 ### Risktagande, Affärsplan
-### Sid 12, 15 LÄS SAMMANFATTNINGEN
+### Sid 17, 18, 22 LÄS SAMMANFATTNINGEN
 Mindre trygghet än en anställning.
 
 Affärsplanen förebygger att företaget misslyckas, medför en röd tråd till företaget att gå efter.
