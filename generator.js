@@ -37,7 +37,9 @@ const generator = (text) => {
 
 
 
-
-fetch('/mal.txt')
-.then(x => x.text())
-.then(text => generator(text));
+for (let index = 1; index <= 14; index++) {
+    fetch('/mall.txt')
+    .then(x => { 
+        if (x.ok) return x.text();
+    }).then(text => generator(text)).catch();
+}
