@@ -1,5 +1,5 @@
 # FTGEkonomi
-The most important information in each chapter from the book "Goodwill Företagsekonomi"
+De viktgaste delarna från vardera kapitel i boken "Goodwill Företagsekonomi"
 
 ## Kapitel att gå igenom
 ### Kapitel
@@ -28,5 +28,6 @@ The most important information in each chapter from the book "Goodwill Företags
  #### ## Kort inledning om kapitlet
  ##### ### Nyckelord
  ##### ### Viktiga Sidor
- ###### #### Sammanfattning
+ ### ## Sammanfattning
+ Brödtext
  ###### #### INSERT_BOK_FRÅGOR
