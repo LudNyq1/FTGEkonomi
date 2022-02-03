@@ -3,6 +3,9 @@
 ## Detta kapitel beskriver de olika företagsformerna och olika intressenter 
 
 ### Företagsformer
+Det finns 4 olika stora företagsformer. Enskild firma, Handelsbolag, Kommanditbolag, Ekonomisk förening.
+### Intressenter
+De olika grupperna som har ett intresse av hur det går för företaget kallas för intressenter.
 
 ### 26-35
 
@@ -36,7 +39,7 @@ Poängen med föreningen är att det ska ekonomiskt gynna medlemmarna.
 På vilket sätt det gynnar är öppen för tolkning men vanligtvis är det genom en anställning eller sänkta priser på tjänster och produkter. 
 En bostadsrättsförening är exempel på en ekonomisk förening. Arla, Coop, OKQ8 är också exempel på ekonomiska föreningar.
 
-En bild från boken som kort förklarar de olika företagsformerna.
+En bild från boken som kort beskriver de olika företagsformerna.
 ![image](https://user-images.githubusercontent.com/83644816/152331894-e3e18164-ed80-4413-bf58-29bb79db0d14.png)
 
 ### Intressenter
