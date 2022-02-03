@@ -3,11 +3,11 @@ Budget - ekonomisk planering
 #### Kort inledning om kapitlet
 Kapitlet handlar om hur viktigt det är att göra en budget för sitt företag.
 ##### Nyckelord
-Budget - Gör en beräkning över alla pengar du har och förväntas få samt vad som kommer att kosta under en viss period.
-Resultatbudget - Är en plan över förväntade intäkter och kostnader.
-Likviditetsbudget - Det är en budget som ger företaget en överblick på betalningsströmmar (inbetalningar jämförs med utbetalningar).
-Konkurs - Företaget förbjuds att fortsätta sin verksamhet av domstol.
-Delegera - Tar sin budget och delar upp den i flera mindre budgetar för att fördela ut.
+- **Budget** - Gör en beräkning över alla pengar du har och förväntas få samt vad som kommer att kosta under en viss period.
+- **Resultatbudget** - Är en plan över förväntade intäkter och kostnader.
+- **Likviditetsbudget** - Det är en budget som ger företaget en överblick på betalningsströmmar (inbetalningar jämförs med utbetalningar).
+- **Konkurs** - Företaget förbjuds att fortsätta sin verksamhet av domstol.
+- **Delegera** - Tar sin budget och delar upp den i flera mindre budgetar för att fördela ut.
 ##### Viktiga Sidor
 87, 90, 92, 93
 
