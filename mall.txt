@@ -1,0 +1,13 @@
+Filnamn   KapX
+
+Rubrik (Första rad)
+
+Inledning
+
+# <- indikerar underrubrik (bara en variant och en rad)
+
+Första stycke 
+
+Andra stycke
+
+Tredje stycke

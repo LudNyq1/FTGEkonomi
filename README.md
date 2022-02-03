@@ -23,9 +23,10 @@ The most important information in each chapter from the book "Goodwill Företags
  
  Kap 14 8 sid - Vigor Lundkvist
  
- ## Struktur för att skriva sammanfattningen
- ### Rubrik - Kapitelnamn h2
- #### Kort inledning om kapitlet h3
- ##### Nyckelord h4
- ##### Viktiga Sidor h4
- ###### Sammanfattning p
+ ## Struktur för att skriva sammanfattningen (SKRIVS I .md !!!)
+ ### # Rubrik - Kapitelnamn 
+ #### ## Kort inledning om kapitlet
+ ##### ### Nyckelord
+ ##### ### Viktiga Sidor
+ ###### #### Sammanfattning
+ ###### #### INSERT_BOK_FRÅGOR
