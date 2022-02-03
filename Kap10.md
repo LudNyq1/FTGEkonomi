@@ -1,7 +1,5 @@
-### Rubrik - Kapitelnamn
-Budget - ekonomisk planering
-#### Kort inledning om kapitlet
-Kapitlet handlar om hur viktigt det är att göra en budget för sitt företag och hur dem kan se ut.
+### Budget - ekonomisk planering
+#### Kapitlet handlar om hur viktigt det är att göra en budget för sitt företag och hur dem kan se ut.
 ##### Nyckelord
 - **Budget** - Gör en beräkning över alla pengar du har och förväntas få samt vad som kommer att kosta under en viss period.
 - **Resultatbudget** - Är en plan över förväntade intäkter och kostnader.
