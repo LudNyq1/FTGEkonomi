@@ -25,7 +25,7 @@ The most important information in each chapter from the book "Goodwill Företags
  
  ## Struktur för att skriva sammanfattningen (SKRIVS I .md !!!)
  ### # Rubrik - Kapitelnamn 
- #### ## Kort inledning om kapitlet h3
- ##### ### Nyckelord h4
- ##### ### Viktiga Sidor h4
- ###### #### Sammanfattning p
+ #### ## Kort inledning om kapitlet
+ ##### ### Nyckelord
+ ##### ### Viktiga Sidor
+ ###### #### Sammanfattning
